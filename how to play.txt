@@ -1,0 +1,10 @@
+reload the page to restart the game
+
+Hit = use need to hit that particular number
+
+with every new Hit , all the bubbles change number and also Hit number change.
+
+timer 30 sec.
+
+coding purpose is learning new skills.
+ 
